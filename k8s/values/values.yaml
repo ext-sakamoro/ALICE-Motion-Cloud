@@ -1,5 +1,5 @@
 global:
-  domain: motion-cloud.alice-platform.com
+  domain: motion-cloud.alicelaw.net
 frontend:
   replicas: 2
   image: motion-cloud/frontend:latest
